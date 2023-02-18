@@ -1,4 +1,5 @@
 @import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Proxima+Nova:wght@400;500;600;700&display=swap');
 
 :root {
     --primary: #fe2c55;
@@ -42,5 +43,4 @@ input,
 
 a[href] {
     text-decoration: none;
-    color: var(--text-color);
 }
